@@ -5,8 +5,6 @@
 
 只有zh-CN会积极更新，其余语言版本会不定期同步，未提到的语言版本不做出修改
 
-其余语言版本不做出修改
-
 ## 语言文件
 [Crowdin](https://translate.geysermc.org/project/geyser)
 这个仓库包含了 Geyser 的本地化文件。
