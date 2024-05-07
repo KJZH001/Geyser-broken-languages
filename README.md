@@ -1,16 +1,16 @@
 # Geyser-broken-languages
 空梦世界修改版间歇泉文本
 
-主要针对魔改的外置登录进行适配，语言为 `zh_CN`、`zh_TW`、`zh_HK`、`zh_MO`、`zh_SG`、`zh_MY`、`zh`、`zh_Hant`、`zh_Hans`、`zh_Hant_HK`、`zh_Hant_MO`、`zh_Hant_TW`、`zh_Hans_CN`、`zh_Hans_SG`、`zh_Hans_MY`、`zh_Hans`、`zh_Hans_HK`、`zh_Hans_MO`、`zh_Hans_TW`。
+主要针对魔改的外置登录进行适配，语言为 `zh_CN`、`zh_TW`、`en_US`、`ja_JP`
+
+只有zh-CN会积极更新，其余语言版本会不定期同步，未提到的语言版本不做出修改
 
 其余语言版本不做出修改
 
-## 语言文件
-[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/project/geyser)
-这个仓库包含了 Geyser 的本地化文件。
+## 注意
+此分支仅用于合并原本的冲突文本，并不会用于更新修改的文本
 
-## 指南
-新的翻译字符串只能通过拉取请求添加到 en_US。对于其他语言，请使用 [Crowdin 网站](https://translate.geysermc.org/)。
+多数情况下，你应该考虑前往master分支
 
 ---
 以下为原始仓库的readme，不做修改
@@ -18,7 +18,7 @@
 注：原始仓库的readme可能会有更新，此处不会同步更新，且似乎地址已经不再可用
 
 # Languages
-[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/project/geyser)  
+[Crowdin](https://translate.geysermc.org/project/geyser)
 This repository contains the localizations for Geyser.
 
 ## Guidelines
