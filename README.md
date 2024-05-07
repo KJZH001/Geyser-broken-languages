@@ -8,7 +8,7 @@
 其余语言版本不做出修改
 
 ## 语言文件
-[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/project/geyser)
+[Crowdin](https://translate.geysermc.org/project/geyser)
 这个仓库包含了 Geyser 的本地化文件。
 
 ## 指南
@@ -20,7 +20,7 @@
 注：原始仓库的readme可能会有更新，此处不会同步更新，且似乎地址已经不再可用
 
 # Languages
-[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/project/geyser)  
+[Crowdin](https://translate.geysermc.org/project/geyser)
 This repository contains the localizations for Geyser.
 
 ## Guidelines
