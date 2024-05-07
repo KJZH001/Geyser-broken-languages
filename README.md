@@ -1,9 +1,9 @@
 # Geyser-broken-languages
 空梦世界修改版间歇泉文本
 
-主要针对魔改的外置登录进行适配，语言为 `zh_CN`、`zh_TW`、`zh_HK`、`zh_MO`、`zh_SG`、`zh_MY`、`zh`、`zh_Hant`、`zh_Hans`、`zh_Hant_HK`、`zh_Hant_MO`、`zh_Hant_TW`、`zh_Hans_CN`、`zh_Hans_SG`、`zh_Hans_MY`、`zh_Hans`、`zh_Hans_HK`、`zh_Hans_MO`、`zh_Hans_TW`。
+主要针对魔改的外置登录进行适配，语言为 `zh_CN`、`zh_TW`、`en_US`、`ja_JP`
 
-*怎么可能有这么多啊喂qwq
+只有zh-CN会积极更新，其余语言版本会不定期同步，未提到的语言版本不做出修改
 
 其余语言版本不做出修改
 
