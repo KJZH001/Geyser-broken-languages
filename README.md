@@ -8,9 +8,10 @@
 ## 语言文件
 [Crowdin](https://translate.geysermc.org/project/geyser)
 这个仓库包含了 Geyser 的本地化文件。
+## 注意
+此分支仅用于合并原本的冲突文本，并不会用于更新修改的文本
 
-## 指南
-新的翻译字符串只能通过拉取请求添加到 en_US。对于其他语言，请使用 [Crowdin 网站](https://translate.geysermc.org/)。
+多数情况下，你应该考虑前往master分支
 
 ---
 以下为原始仓库的readme，不做修改
