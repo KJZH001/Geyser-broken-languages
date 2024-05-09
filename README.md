@@ -12,9 +12,9 @@
 [Crowdin](https://translate.geysermc.org/project/geyser)
 这个仓库包含了 Geyser 的本地化文件。
 ## 注意
-此分支仅用于合并原本的冲突文本，并不会用于更新修改的文本
+main分支仅用于合并原本的冲突文本，并不会用于更新修改的文本
 
-多数情况下，你应该考虑前往master分支
+多数情况下，你应该考虑前往master分支进行更新操作
 
 ---
 以下为原始仓库的readme，不做修改
